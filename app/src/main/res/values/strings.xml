@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guardian News</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="no_data">No earthquakes found!</string>
+    <string name="search_hint">Search news&#8230;</string>
+    <string name="action_search">Search</string>
+</resources>
